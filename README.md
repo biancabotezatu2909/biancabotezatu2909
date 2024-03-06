@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bianca</h1>
+<h2 align="center">Hi 👋, I'm Bianca</h2>
 <h3 align="center">Passionate Student Seeking to Grow Through Internship Opportunities</h3>
 
 - 🌱 I’m currently learning **C#, React, Angular**
