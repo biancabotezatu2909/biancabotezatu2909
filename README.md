@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bianca</h1>
 <h3 align="center">Passionate Student Seeking to Grow Through Internship Opportunities</h3>
 
-- 🌱 I’m currently learning **C#, React, Angular, .NET framework**
-
-- 👨‍💻 All of my projects are available at [https://github.com/biancabotezatu2909](https://github.com/biancabotezatu2909)
 
 - 📫 How to reach me **biabotezatu29@gmail.com**
 
